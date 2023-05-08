@@ -45,6 +45,9 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
+.myaboutme{
+	size-adjust: 100px;
+}
 
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
